@@ -11,10 +11,11 @@ Most of my code is written in python, so below is a snippet of Python code.
 
 {% highlight python %}
 def print_hi(name):
-  return "Hi, #{name}"
-end
+    return f"Hi, {name}"
+
 print_hi('Tom')
 #=> prints 'Hi, Tom'
 {% endhighlight %}
+
 
 
