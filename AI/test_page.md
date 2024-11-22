@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Test Page"
-permalink: /AI/test-page
+permalink: /AI/test_page
 ---
