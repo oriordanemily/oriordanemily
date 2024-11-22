@@ -5,4 +5,4 @@ title: AI
 
 # Artificial Intelligence
 
-[Test Page](Test_Page)
+[Test Page](test_page)
