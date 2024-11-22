@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Post!"
-date:   2024-11-21 12:20:00
+date: 2024-11-22 12:20:00 +1300  # Correct NZST time
 categories: jekyll update
 ---
 
